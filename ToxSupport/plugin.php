@@ -1,4 +1,13 @@
 <?php
+/*
+Plugin Name: ToxSupport
+Plugin URI: http://tox.im/
+Description: Add support for the Tox URL Scheme
+Version: 1.0
+Author: NemDiggers
+Author URI: http://tox.im/
+*/
+
 if( !defined( 'YOURLS_ABSPATH' ) ) die();
 yourls_add_filter( 'is_allowed_protocol', 'suculent_itms_protocols' );
 function suculent_itms_protocols( $args, $url ) {
