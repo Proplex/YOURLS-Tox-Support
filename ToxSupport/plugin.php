@@ -4,7 +4,7 @@ Plugin Name: ToxSupport
 Plugin URI: http://tox.im/
 Description: Add support for the Tox URL Scheme
 Version: 1.0
-Author: NemDiggers
+Author: Proplex
 Author URI: http://tox.im/
 */
 
