@@ -1,3 +1,3 @@
-YOURLS-Tox-Support
+Tox URI Support for YOURLS
 ==================
-YOURLS out of the box doesn't support anything else except http:// shortening. A simple addon allows it to accept tox:// and tox-im:// URL schemes
+A simple YOURLS addon that allows for shortening Tox IDs in tox: and tox:// URI format.
